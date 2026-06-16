@@ -38,7 +38,7 @@ color:#5e2b73;
 /* HERO */
 
 .hero{
-height:85vh;
+height:70vh;
 background:
 linear-gradient(
 rgba(0,0,0,.45),
@@ -73,7 +73,7 @@ color:white;
 /* SECTIONS */
 
 .section{
-padding:60px 10%;
+padding:80px 8%;
 background:white;
 }
 
