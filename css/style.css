@@ -206,3 +206,59 @@ height:55px;
 }
 
 }
+/* Statistics cards */
+
+.stats-card{
+    text-align:center;
+}
+
+.stats-card h3{
+    font-size:60px;
+    margin:25px 0 10px;
+    color:#9b4dca;
+}
+
+.stats-card p{
+    font-size:20px;
+}
+
+/* Programme descriptions */
+
+.card p{
+    padding:0 20px 25px;
+    line-height:1.6;
+    color:#666;
+}
+
+/* Better section spacing */
+
+.section{
+    padding:80px 8%;
+}
+
+/* Call To Action */
+
+.cta-section{
+    background:linear-gradient(
+        135deg,
+        #9b4dca,
+        #ff7b54
+    );
+    color:white;
+    text-align:center;
+}
+
+.cta-section h2{
+    color:white;
+}
+
+.cta-section a{
+    display:inline-block;
+    margin-top:20px;
+    padding:15px 35px;
+    background:white;
+    color:#9b4dca;
+    border-radius:10px;
+    text-decoration:none;
+    font-weight:bold;
+}
